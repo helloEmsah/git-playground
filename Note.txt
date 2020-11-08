@@ -1,1 +1,2 @@
-I'm ready to merge with main branch!
+Just a small note
+
