@@ -1,1 +1,1 @@
-Just a small note
+Change default branch to main
